@@ -1,3 +1,4 @@
 name:  砚书君的 Blog
-markdown: redcarpet
+baseurl: /yanshujun
+markdownredcarpet
 pygments: true
