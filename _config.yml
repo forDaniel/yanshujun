@@ -1,3 +1,7 @@
 name:  砚书君的 Blog
-markdownredcarpet
+markdown: redcarpet
 pygments: true
+safe: true
+lsi: false
+pygments: true
+source: /yanshujun
